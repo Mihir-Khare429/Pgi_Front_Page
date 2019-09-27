@@ -1,0 +1,61 @@
+body{
+background-color:rgb(85, 214, 164);
+}
+.online{
+  background-color:blue;
+  color:white;
+  margin-top:3px;
+  margin-bottom:2px;
+  padding:2px;
+  font-family:Apple Chancery;
+  font-weight:200;
+}
+.spl{
+  Background-color:rgb(33, 192, 255);
+  width:30%;
+  display:inline-block;
+  margin-right:3px;
+  margin-bottom:3px;
+  padding:2px;
+  text-align:right;
+}
+.dropdown{
+  display: inline-block;
+  background-color:rgb(237, 239, 172);
+  width:69%;
+  padding:2px;
+  margin-bottom:3px;
+}
+.color{
+  background-color:rgb(237, 239, 172);
+  width:30.2%;
+  height:24px;
+  display:inline-block;
+  margin-right:3px;
+}
+.color1{
+  background-color:rgb(237, 239, 172);
+  width:69.2%;
+  height:24px;
+  display:inline-block;
+ }
+.text {
+  display:inline-block;
+  background-color:rgb(237, 239, 172);
+  width:69.2%;
+  padding-left:1px;
+}
+.text1{
+  width:25%;
+  overflow:hidden;
+  padding:3px;
+}
+.background{
+  background-color:blue;
+}
+.button{
+  display:inline-block;
+  text-align:center;
+  justify-content:center;
+}
+
